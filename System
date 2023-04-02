@@ -1,0 +1,51 @@
+<style type="text/css" media="all">
+  
+  body{
+   margin:0;
+   margin-top: 0;
+   padding:0px;
+    
+    
+  }
+  #q_001{
+    color: black;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+  }
+  .hindi_q{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    color: red;
+    border: 2px solid blueviolet;
+    border-bottom: none;
+    padding: 10px;
+    border-radius: 9px;
+   border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+  }
+  
+ .ans_001{ list-style-type: lower-alpha;
+   font-size: 17px;
+   font-weight: bold;
+   border-radius: 9px;
+   border-top-right-radius: 0px;
+   border-top-left-radius: 0px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   border: 2px solid red;
+border-top:0px;
+
+   margin-bottom: 20px;
+   padding-bottom: 15px;
+ } 
+ .questions_001{
+   background-color: whitesmoke;
+   background-size: cover;
+ padding-top: 30px;
+ padding-right:15px;
+ margin: 0;
+   
+ }
+</style>
